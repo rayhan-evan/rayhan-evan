@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I am a **friendly and collaborative team player** with over **6 years of experience in Web Development** and **1 year of Industrial Mobile Application Development**. Currently serving as **Deputy Manager for Web Development** at BRAC University's IT Systems Office, I lead software projects with a focus on **timely delivery and quality assurance**.  
 
 My technical toolkit includes:  
-- **Languages:** Java, Groovy, Grails  
+- **Languages:** PHP, Java, Groovy, Grails, JavaScript  
 - **Frameworks & Tools:** Jira Service Management, Confluence, Bootstrap, HTML5, CSS3  
 - **Software Documentation:** Creating and managing detailed technical documentation  
 
@@ -53,10 +53,11 @@ My technical toolkit includes:
 - Passionate about **empowering youth** through technology and cultural activities.  
 
 ## 🌱 Interests  
-I’m constantly exploring new tools and frameworks to enhance my expertise in web and mobile development while staying committed to making a positive impact through community work.  
+I’m constantly exploring new tools and frameworks to enhance my expertise in web and mobile development while staying committed to making a positive impact through community work. Along with that I am interested to work on Augmented Reality and LLM Projects.
 
 ## 📫 Connect With Me  
-Feel free to reach out to collaborate or discuss ideas! Let’s build something amazing together.  
+Feel free to reach out to collaborate or discuss ideas! Let’s build something amazing together.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://github.com/rayhan-evan)
 
 ---
 ✨ *"Code to inspire, design to impact."*
