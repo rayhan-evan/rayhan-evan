@@ -57,6 +57,7 @@ I’m constantly exploring new tools and frameworks to enhance my expertise in w
 
 ## 📫 Connect With Me  
 Feel free to reach out to collaborate or discuss ideas! Let’s build something amazing together.
+<br>
 <a href="https://github.com/rayhan-evan/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
 </a>
