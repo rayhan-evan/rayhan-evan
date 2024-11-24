@@ -53,11 +53,11 @@ My technical toolkit includes:
 - Passionate about **empowering youth** through technology and cultural activities.  
 
 ## 🌱 Interests  
-I’m constantly exploring new tools and frameworks to enhance my expertise in web and mobile development while staying committed to making a positive impact through community work. Along with that I am interested to work on Augmented Reality and LLM Projects.
+I’m constantly exploring new tools and frameworks to enhance my expertise in web and mobile development while staying committed to making a positive impact through community work. Along with that I am interested to work on Augmented Reality (AR) and LLM Projects.
 
 ## 📫 Connect With Me  
 Feel free to reach out to collaborate or discuss ideas! Let’s build something amazing together.
-<be>
+<br>
 <br>
 <a href="https://github.com/rayhan-evan/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
