@@ -26,11 +26,11 @@ My technical toolkit includes:
 - **Software Documentation:** Creating and managing detailed technical documentation  
 
 ## 💻 Professional Journey  
-### Deputy Manager – BRAC University IT Systems Office  
+### Deputy Manager – BRAC University IT Systems Office  (July 2024 - Present)
 - Manage software projects and ensure on-time delivery.  
 - Spearhead web development initiatives with expertise in Java, Groovy, and Grails.  
 
-### Assistant Manager & Senior Officer – BRAC University IT Systems Office  
+### Assistant Manager & Senior Officer – BRAC University IT Systems Office  (July 2019 - June 2024)
 - Contributed to web solutions using Bootstrap, HTML5, CSS3, Groovy, and Grails.  
 
 ### Freelance Graphic Designer (Since 2013)  
